@@ -10,6 +10,14 @@
 
 # Vscode
 
+- 插件
+  - Auto Rename Tag
+  - Bracket Pair Colorizer
+  - C/C++
+  - Code Runner
+  - Live Server
+  - Volar
+
 # Vim
 
 - 模式
